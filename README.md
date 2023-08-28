@@ -15,7 +15,7 @@ Developed an ATM Management System as a college project that aimed to simulate a
 - Established transaction logging to record and store user transactions for future reference and auditing purposes.
 
 ## Technologies Used
-Java, MySQL, Java Swing Library
+Java, MySQL, Java Swing Library, NetBeans, DBeaver
 
 ## Achieved Requirements
 1. **User Authentication:** Implemented a secure PIN-based authentication system.
