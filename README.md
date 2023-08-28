@@ -1,5 +1,5 @@
 # ATM Management System College Project
-**Duration:** [June 2023] - [August 2023]
+**Duration:** June 2023 - August 2023
 
 ## Project Description
 Developed an ATM Management System as a college project that aimed to simulate a functional Automated Teller Machine (ATM) using Java and MySQL. The project successfully achieved all outlined requirements, demonstrating proficiency in Java programming and database management.
