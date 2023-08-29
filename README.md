@@ -30,6 +30,6 @@ Java, MySQL, Java Swing Library, NetBeans, DBeaver
 10. **Transaction Logging:** Established a system to log and store user transactions for reference and audits.
 
 ## Screenshots
-[](img/register.png)
-[](img/login.png)
-[](img/main.png)
+![](img/register.png)
+![](img/login.png)
+![](img/main.png)
